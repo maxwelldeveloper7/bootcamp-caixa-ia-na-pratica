@@ -1,32 +1,26 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 Meu App de Organização de Finanças Pessoais com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
-
-## ✨ O que é Vibe Coding
-
-**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
-
-> Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+Este foi um projeto desesnvolvido com um desafio de projeto da DIO de Vibe Coding Utilizando Lovable e Copilot Web. A Proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural.
 
 ## 🎯 Desafio Concluído
 
-### Prompt final (PRD):
-```Prompt
-PRD – App de Organização de Finanças Pessoais
+### PRD final refinado no Copilot Web
+```
+# PRD – App de Organização de Finanças Pessoais
 
-Contexto
+## Contexto
 Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas em linguagem natural, simplificando o controle financeiro sem depender de formulários complexos ou planilhas.
 
-Problema
+## Problema
 Muitos usuários abandonam apps de finanças porque exigem entradas manuais extensas e oferecem pouca personalização.
 O objetivo é resolver isso com uma experiência conversacional e recomendações automáticas de economia.
 
-Público-Alvo
+## Público-Alvo
 - Pessoas que desejam começar a organizar suas finanças de forma prática e acessível.
 - Principalmente iniciantes que não têm familiaridade com planilhas ou apps tradicionais.
 - O aplicativo deve seguir princípios de Design Universal, garantindo que seja inclusivo e ofereça boa experiência para o maior número possível de usuários, independentemente de idade, nível de habilidade digital ou possíveis limitações.
 
-Funcionalidades-Chave
+## Funcionalidades-Chave
 1. Registro de transações via chat
    - Usuário informa gastos e ganhos em linguagem natural.
    - O sistema deve solicitar informações faltantes (data no formato dd/mm/yyyy, fonte do ganho ou destino da saída).
@@ -46,7 +40,7 @@ Funcionalidades-Chave
    - Resumo mensal com insights sobre gastos e ganhos.
    - Possibilidade de exportar ou compartilhar.
 
-Entregável da IA
+## Entregável da IA
 - Plano de MVP com:
   - Principais telas:
     - Tela de chat (entrada de dados).
