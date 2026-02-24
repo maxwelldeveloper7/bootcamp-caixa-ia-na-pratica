@@ -1,7 +1,7 @@
 ### Mapa de Habilidades
 
 
-### Etapa 1 Inventário de Habilidades (preenchido)
+### Etapa 1 Inventário de Habilidades
 
 #### Técnicas
 - **Linguagem Python**  
